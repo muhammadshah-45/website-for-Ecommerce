@@ -176,7 +176,7 @@ body {
 /* Home Page */
 
 #hero {
-  background: url(/img/hero4.png);
+  background: url(./img/hero4.png);
   height: 90vh;
   width: 100%;
   padding: 0 80px;
